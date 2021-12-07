@@ -2,4 +2,4 @@ My first git project.
 
 Adding a second line.
 
-Another commit.
+This is again a commit
